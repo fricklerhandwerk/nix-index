@@ -31,7 +31,7 @@ camlistore.out                                7,938,952 x /nix/store/xn5ivjdyslx
 
 ### From Nixpkgs
 
-From your locally configured version Nixpkgs:
+From your locally configured version of Nixpkgs:
 
 ```
 $ nix-shell -p nix-index
